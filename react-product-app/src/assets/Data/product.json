@@ -1,0 +1,22 @@
+{
+    "product" : [
+        {
+            "name" : "iphone",
+            "price" : 3000,
+            "description" : "this is a description",
+            "image" : "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/i/p/iphone-13-128go-rose.jpg" ,
+        },
+        {
+            "name" : "smart watch",
+            "price" : 1900,
+            "description" : "this is a description",
+            "image" : "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/b/r/bracelet-connectee-y68-d20-rose.jpg",
+        },
+        {
+            "name" : "PC Gamer" ,
+            "price" : 5500 ,
+            "description" : "this is a description",
+            "image" : "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/p/c/pc-de-bureau-gamer-molotov-amd-ryzen-5-16go-rtx-3050-dual.jpg" ,
+        }
+    ]
+}
